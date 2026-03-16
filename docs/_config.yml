@@ -91,14 +91,14 @@ content:
         title: Georgia College and State University
         sub_title: BA Political Science
         quote: >
-          Georgia College is a public university located in Milledgeville, Georgia. It was founded in 1889 as the Georgia Normal and Industrial College, and is now part of the University System of Georgia.
+          Georgia College is a public university located in Milledgeville, Georgia. It was founded in 1889 as the Georgia Normal and Industrial College, and is now part of the University System of Georgia and is the public liberal arts university of the state. 
         description: | # this will include new lines to allow paragraphs
            Education description... 
       - layout: left
         title: Georgia College and State University
         sub_title: Master of Public Administration (MPA)
-        decription: | # this will include new lines to allow paragraphs
-          I continued my education at Georgia College and State University...
+        description: | # this will include new lines to allow paragraphs
+          I continued my education at Georgia College and State University and earned a Master of Public Administration while serving as the Graduate Assistant for the Office of Admissions.
 
   - title: A Little More About Me
     layout: text
