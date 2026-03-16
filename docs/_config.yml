@@ -31,9 +31,9 @@ orcid_username: 0009-0008-3362-9661
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#- title: itsgoingto.be
+  #icon: fas fa-globe
+  #url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Justin and I'm a mid-career higher education professional. I have experience in distance/online learning, educational technology, and faculty development/training. I have a passion for learning and am always looking for new opportunities to grow my skills and knowledge.
 
