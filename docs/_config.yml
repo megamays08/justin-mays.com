@@ -109,6 +109,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in educational technology and AI some of my other interests and hobbies are:
+      - The rabbit hole that is self-hosting
       - 3D Printing
       - Old Homes
       - Axe Throwing
