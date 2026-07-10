@@ -54,11 +54,11 @@ about_content: | # this will include new lines to allow paragraphs
   
   I joined eCampus as the Director of Faculty Development in 2024 and now serve faculty from across the University System of Georgia. 
 content:
-  - title: Meeting Schedule Helper # Title for the section
-    #layout: list # Type of content section (list/text)
-    #content:
-      #- layout: top-middle
-        #title: Super awesome project
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Meeting Schedule Helper
         link: https://github.com/megamays08/Meeting-Schedule-Helper
         # link_text: Project Website
         #additional_links:
