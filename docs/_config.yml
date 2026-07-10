@@ -91,7 +91,7 @@ content:
       - layout: top-middle
         title: Meeting Schedule Helper
         link: https://github.com/megamays08/Meeting-Schedule-Helper
-          link_text: GitHub Repo
+        link_text: GitHub Repo
         #additional_links:
           #- title:  sproogen/modern-resume-theme
             #icon: fab fa-github
