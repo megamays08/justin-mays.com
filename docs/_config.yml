@@ -54,36 +54,36 @@ about_content: | # this will include new lines to allow paragraphs
   
   I joined eCampus as the Director of Faculty Development in 2024 and now serve faculty from across the University System of Georgia. 
 
-content:
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: University System of Georgia eCampus
-        link: https://ecampus.usg.edu
-        link_text: ecampus.usg.edu
-        sub_title: Director, eCampus Faculty Development
-        caption: 2024 - Present
+# content:
+#  - title: Experience # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: left
+#        title: University System of Georgia eCampus
+#        link: https://ecampus.usg.edu
+#        link_text: ecampus.usg.edu
+#        sub_title: Director, eCampus Faculty Development
+#        caption: 2024 - Present
         #quote: >
           #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            I lead a small team of instructional designers and educational developers whom work with faculty to develop training and other opportunities for eCampus faculty across the University System of Georgia.
+#        description: | # this will include new lines to allow paragraphs
+#            I lead a small team of instructional designers and educational developers whom work with faculty to develop training and other opportunities for eCampus faculty across the University System of Georgia.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Georgia College and State University
-        sub_title: BA Political Science
-        quote: >
-          Georgia College is a public university located in Milledgeville, Georgia. It was founded in 1889 as the Georgia Normal and Industrial College, and is now part of the University System of Georgia and is the public liberal arts university of the state. 
+  # - title: Education # Title for the section
+  #  layout: list # Type of content section (list/text)
+  #  content:
+  #    - layout: left
+  #     title: Georgia College and State University
+  #      sub_title: BA Political Science
+  #      quote: >
+  #        Georgia College is a public university located in Milledgeville, Georgia. It was founded in 1889 as the Georgia Normal and Industrial College, and is now part of the University System of Georgia and is the public liberal arts university of the state. 
         #description: | # this will include new lines to allow paragraphs
            # Education description... 
-      - layout: left
-        title: Georgia College and State University
-        sub_title: Master of Public Administration (MPA)
-        description: | # this will include new lines to allow paragraphs
-          I continued my education at Georgia College and State University and earned a Master of Public Administration while serving as the Graduate Assistant for the Office of Admissions.
+  #    - layout: left
+  #      title: Georgia College and State University
+  #      sub_title: Master of Public Administration (MPA)
+  #      description: | # this will include new lines to allow paragraphs
+  #        I continued my education at Georgia College and State University and earned a Master of Public Administration while serving as the Graduate Assistant for the Office of Admissions.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
