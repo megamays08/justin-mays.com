@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
-    content:
+      content:
       - layout: left
         title: University System of Georgia eCampus
         link: https://ecampus.usg.edu
@@ -102,7 +102,7 @@ content:
           #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way of learning how to automate some mundane, tedious, tasks that I always dreaded doing. The tool allows you to upload a list of dates and schedule a recurring meeting series which takes into account those dates (holidays, busy periods, etc). If you have to coordinate across multiple people's calendars, this may speed the process up for you. 
-          
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
